@@ -3,7 +3,6 @@ SECOP_II_Contratos_Electronicos_20260126.csv
 
 data/
 *.csv
-*.parquet
 *.crc
 
 # Spark / Delta Lake
