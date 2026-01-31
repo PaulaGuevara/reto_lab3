@@ -1,3 +1,9 @@
+# Integrantes
+
+* Laura Alejandra Sepulveda
+* Paula Ximena Guevara Gomez
+
+
 # Taller 3: Spark & Arquitectura Medallion
 
 Este taller práctico forma parte del **Módulo 3: Spark** y se centra en la implementación del **Capítulo 11: Arquitectura Medallion**.
